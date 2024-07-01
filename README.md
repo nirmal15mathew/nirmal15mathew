@@ -9,4 +9,4 @@ algorithms.
 - 🧑‍💻 I’m currently learning Rust 🦀
 - 👯 I’m looking to collaborate on something related to computer vision and augmented reality 📹
 - 💬 Talk to me about 🍷 Philosophy in computing, 🔭 Science
-- 📫 Reach me at @nirmalthomasmathew(https://www.instagram.com/nirmalthomasmathew/) on instagram or Linked In [Nirmal Thomas Mathew](https://www.linkedin.com/in/nirmal-thomas-mathew/)
+- 📫 Reach me at [@nirmalthomasmathew](https://www.instagram.com/nirmalthomasmathew/) on instagram or Linked In [Nirmal Thomas Mathew](https://www.linkedin.com/in/nirmal-thomas-mathew/)

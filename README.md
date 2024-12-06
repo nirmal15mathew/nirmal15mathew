@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 #### Hi there 👋<br><br>Welcome to my personal github page. You can view my college github account [here](https://www.github.com/nirmalthomasnitc)<br><br>I am an intermediate level computer science enthusiasist. I love to explore various computing problems from simple logic to interesting and complex<br>algorithms. <br><br>- 🔭 I’m currently working on implementing visualisations for various algorithms (Djikstra's, A*, etc)<br>- 🧑‍💻 I’m currently learning Rust 🦀<br>- 👯 I’m looking to collaborate on something related to computer vision and augmented reality 📹<br>- 💬 Talk to me about 🍷 Philosophy in computing, 🔭 Science<br>- 📫 Reach me at [@nirmalthomasmathew](https://www.instagram.com/nirmalthomasmathew/) on instagram or Linked In [Nirmal Thomas Mathew](https://www.linkedin.com/in/nirmal-thomas-mathew/)<br>
 
 

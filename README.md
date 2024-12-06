@@ -1,5 +1,23 @@
 # About Me:
-#### Hi there 👋<br><br>Welcome to my personal github page. You can view my college github account [here](https://www.github.com/nirmalthomasnitc)<br><br>I am an intermediate level computer science enthusiasist. I love to explore various computing problems from simple logic to interesting and complex<br>algorithms. <br><br>- 🔭 I’m currently working on implementing visualisations for various algorithms (Djikstra's, A*, etc)<br>- 🧑‍💻 I’m currently learning Rust 🦀<br>- 👯 I’m looking to collaborate on something related to computer vision and augmented reality 📹<br>- 💬 Talk to me about 🍷 Philosophy in computing, 🔭 Science<br>- 📫 Reach me at [@nirmalthomasmathew](https://www.instagram.com/nirmalthomasmathew/) on instagram or Linked In [Nirmal Thomas Mathew](https://www.linkedin.com/in/nirmal-thomas-mathew/)<br>
+#### **Hi there! 👋**  
+Welcome to my personal GitHub page! Feel free to explore my college GitHub account [here](https://www.github.com/nirmalthomasnitc).  
+
+I’m a passionate computer science enthusiast with an intermediate skill level. I thrive on diving into a spectrum of computing challenges, from straightforward logic puzzles to intricate and fascinating algorithms.  
+
+### A little about what I’m up to:  
+- 🔭 **Currently working on:** Visualizing algorithms like Dijkstra’s, A*, and more!  
+- 🧑‍💻 **Learning:** Rust 🦀 — because who doesn’t love a bit of fearless concurrency?  
+- 👯 **Looking to collaborate on:** Projects in computer vision and augmented reality 📹.  
+
+💬 Let’s chat about:  
+- 🍷 The philosophy of computing — why code is more than just code.  
+- 🔭 Science — because curiosity never sleeps.  
+
+📫 **Reach me at:**  
+- Instagram: [@nirmalthomasmathew](https://www.instagram.com/nirmalthomasmathew/)  
+- LinkedIn: [Nirmal Thomas Mathew](https://www.linkedin.com/in/nirmal-thomas-mathew/)  
+
+Let’s connect and create something awesome! 🚀  
 
 
 ## 🌐 Socials:
